@@ -21,7 +21,7 @@ In the home directory the index.py is where it all starts. So, to run the multip
 
     streamlit run index.py
 
-This will run a Sreamlit app with a drop down menu in the sidebar which will contain the list of apps that can be run (in this skeleton template, _app1_ and _app2_).
+This will run a Streamlit app with a drop down menu in the sidebar which will contain the list of apps that can be run (in this skeleton template, _app1_ and _app2_).
 
 ```index.py``` does not need to be changed except to change the the variable ```message``` if you wish to.
 
